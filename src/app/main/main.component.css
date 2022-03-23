@@ -1,0 +1,9 @@
+.center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 10px solid #21a554;
+    background-color: black;
+    padding: 20px;
+}
